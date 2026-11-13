@@ -26,6 +26,6 @@ A continuación, se ha realizado un estudio de 2SMR usando Rstudio con los paque
 - A continuación, se selecciona las IVs firmemente asociadas según el nivel de significación de GWAS.
 - Se han empleado 5 métodos MR para los cuales se calculó el parámetro "beta", que refleja la dirección de la relación entre factor de riesgo/enfermedad.
 
-En el archivo (Análisis_MR.md) se muestran los resultados obtenidos tras el análisis MR en función de sus 5 métodos,  mostrándose el factor de riesgo más significativo en cada método (p<0.05), el parámetro b y el nº de SNPs seleccionados para dicho factor.
+En el archivo (Resultados_análisis_MR.md) se muestran los resultados obtenidos tras el análisis MR en función de sus 5 métodos,  mostrándose el factor de riesgo más significativo en cada método (p<0.05), el parámetro b y el nº de SNPs seleccionados para dicho factor.
 
 3.3. 
