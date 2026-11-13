@@ -40,6 +40,13 @@ Se pueden dar dos casos, cuya interpretación es:
 - `p < 0.05` --> los **SNPs contribuyen de forma heterogénea**, de esta manera algunos SNPs tienen mayor influencia que otros.
 
 #### 3.3.2 Análisis de Pleiotropía Horizontal
+Se comprueba que la relación causal entre el factor de riesgo y la enfermedad es directa, sin que intervengan vías alternativas o factores de confusión.
+
+Qué se interpreta:
+- `p > 0.05` --> ausencia de pleiotropía horizontal: la relación causal es válida.
+- `p < 0.05` --> posible pleiotropía: el modelo debe descartarse o revisarse.
+
+> Se seleccionaron únicamente los modelos que no mostraron indicios de pleiotropía horizontal (`p > 0.05`).
 
 #### 3.3.3 Análisis de los efectos de los SNPs individuales 
 
