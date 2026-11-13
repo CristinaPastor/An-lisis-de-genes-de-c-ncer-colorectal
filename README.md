@@ -57,3 +57,11 @@ Mide el efecto de cada SNP de forma aislada mediante el test de Wald, observando
 Con este análisis se estudia el efecto del conjunto de SNPs excluyendo uno cada vez, pudiendo detectar si alguna variante condiciona por sí sola todo el resultado del análisis. Para ello, **si el valor de p pierde su significación estadística** tras la eliminación del SNP del conjunto, está **condicionando el efecto global** y habría que analizarlo con especial atención. 
 
 #### 3.3.5 Análisis mediante representación gráfica 
+Los resultados de estos análisis se representaron visualmente mediante cuatro tipos de gráficos.
+Cada archivo de imagen corresponde a uno de los análisis descritos anteriormente.
+
+- `single_snp_plot.png` --> representación del efecto individual de cada SNP
+- `leave_one_out_plot.png` --> efecto del conjunto al excluir un SNP cada vez
+- `scatter_plot.png` --> relación causal entre factor de riesgo y enfermedad
+- `funnel_plot.png` --> simetría de los efectos pata detectar pleiotropía horizontal
+
