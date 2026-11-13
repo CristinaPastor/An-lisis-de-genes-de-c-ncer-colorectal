@@ -15,8 +15,8 @@ Una vez seleccionado los factores ambientales de interés, es necesario establec
 
 A partir de estos avances ha surgido la aleatorización mendeliana de dos muestras (2SMR), una metodología que emplea los SNPs como variables instrumentales (IVs) para inferir relaciones causales los factores de riesgo y la patología. 
 
-A. Selección de los datos GWAS a analizar
+A. Selección de los datos GWAS a analizar.
 En primer lugar, se han seleccionado resultados públicos de GWAS tanto para las neoplasias digestivas como para los factores de riesgo de la base de datos de referencia para estudios de MR "ieu OpenGWAS". 
 
-B. Análisis de MR
+B. Análisis de MR.
 Se ha realizado un estudio de 2SMR usando Rstudio con los paquetes "MR instruments" y "TwoSampleMR".
