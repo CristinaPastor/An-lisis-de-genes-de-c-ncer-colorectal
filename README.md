@@ -1,5 +1,5 @@
 # ANÁLISIS DE GENES ASOCIADOS A FACTORES AMBIENTALES QUE AFECTAN AL CÁNCER COLORRECTAL
-## 1. INTRODUCCIÓN: 
+## 1. INTRODUCCIÓN
 
 ## 2. OBJETIVOS
 
@@ -28,4 +28,16 @@ A continuación, se ha realizado un estudio de 2SMR usando Rstudio con los paque
 
 En el archivo (Resultados_análisis_MR.md) se muestran los resultados obtenidos tras el análisis MR en función de sus 5 métodos,  mostrándose el factor de riesgo más significativo en cada método (p<0.05), el parámetro b y el nº de SNPs seleccionados para dicho factor.
 
-### 3.3. 
+### 3.3. ANÁLISIS DE SENSIBILIDAD
+
+En este apartado se llevan a cabo los análisis estadísticos para confirmar la robustez de los resultados obtenidos. **El objetivo es descartar sesgos, factores de confusión y variantes con un peso desproporcionado en la relación causal analizada**.
+
+#### 3.3.1 Análisis de Heterogeneidad
+
+#### 3.3.2 Análisis de Pleiotropía Horizontal
+
+#### 3.3.3 Análisis de los efectos de los SNPs individuales 
+
+#### 3.3.4 Análisis de los efectos del conjunto de SNPs menos uno
+
+#### 3.3.5 Análisis mediante representación gráfica 
