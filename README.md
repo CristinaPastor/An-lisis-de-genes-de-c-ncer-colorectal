@@ -48,7 +48,10 @@ Qué se interpreta:
 
 > Se seleccionaron únicamente los modelos que no mostraron indicios de pleiotropía horizontal (`p > 0.05`).
 
-#### 3.3.3 Análisis de los efectos de los SNPs individuales 
+#### 3.3.3 Análisis de SNPs Individuales (Single-SNP)
+Mide el efecto de cada SNP de forma aislada mediante el test de Wald, observando si hay alguno que tenga especial influencia sobre el desarrollo de la enfermedad.
+
+- `p < 0.05` --> el SNP tiene un efecto individual significativo y se considera candidato para explicar la base molecular del efecto observado.
 
 #### 3.3.4 Análisis de los efectos del conjunto de SNPs menos uno
 
