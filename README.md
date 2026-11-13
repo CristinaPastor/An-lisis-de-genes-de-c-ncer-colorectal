@@ -13,7 +13,7 @@ Para comenzar, se debe seleccionar los distintos tipos de factores ambientales d
 
 ### 3.2. SELECCIÓN DE SNPs Y ANÁLISIS DE ALEATORIZACIÓN MENDELIANA (MR).
 
-Una vez seleccionado los factores ambientales de interés, es necesario establecer la relación o impacto de los mismos en la enfermedad. El estudio genético de enfermedades complejas y los factores ambientales se basa en los estudios de asociación del genoma completo (GWAS), Estos análisis evalúan millones  de polimorfismos de un solo nucleótido (SNPs) y requieren grandes muestras poblacionales, consorcios internacionales y repositorios públicos.
+Una vez seleccionado los factores ambientales de interés, es necesario establecer la relación o impacto de los mismos en la enfermedad. El estudio genético de enfermedades complejas y los factores ambientales se basa en los estudios de asociación del genoma completo (GWAS). Estos análisis evalúan millones  de polimorfismos de un solo nucleótido (SNPs) y requieren grandes muestras poblacionales, consorcios internacionales y repositorios públicos.
 
 A partir de estos avances ha surgido la aleatorización mendeliana de dos muestras (2SMR), una metodología que emplea los SNPs como variables instrumentales (IVs) para inferir relaciones causales los factores de riesgo y la patología. 
 
@@ -33,6 +33,11 @@ En el archivo (Resultados_análisis_MR.md) se muestran los resultados obtenidos 
 En este apartado se llevan a cabo los análisis estadísticos para confirmar la robustez de los resultados obtenidos. **El objetivo es descartar sesgos, factores de confusión y variantes con un peso desproporcionado en la relación causal analizada**.
 
 #### 3.3.1 Análisis de Heterogeneidad
+Mediante este análisis se evalúa si todos los SNPs contribuyen de forma similar al efecto observado sobre la enfermedad, o si hay algunos que tengan un peso notablemente mayor que otros.
+
+Se pueden dar dos casos, cuya interpretación es:
+- `p > 0.05` --> los **SNPs contribuyen de forma homogénea**, por lo que no hay heterogeneidad significativa.
+- `p < 0.05` --> los **SNPs contribuyen de forma heterogénea**, de esta manera algunos SNPs tienen mayor influencia que otros.
 
 #### 3.3.2 Análisis de Pleiotropía Horizontal
 
