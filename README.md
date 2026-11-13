@@ -11,19 +11,19 @@ Para comenzar, se debe seleccionar los distintos tipos de factores ambientales d
 - Creamos una carpeta que se llame factores_ambientales.
 - Dentro de la carpeta, clasificamos los diversos factores creando un archivo .md por cada factor.
 
-3.2. SNPs RELACIONADOS CON LOS DISTINTOS FACTORES AMBIENTALES.
+3.2. SELECCIÓN DE SNPs Y ANÁLISIS DE ALEATORIZACIÓN MENDELIANA (MR).
 
 Una vez seleccionado los factores ambientales de interés, es necesario establecer la relación o impacto de los mismos en la enfermedad. El estudio genético de enfermedades complejas y los factores ambientales se basa en los estudios de asociación del genoma completo (GWAS), Estos análisis evalúan millones  de polimorfismos de un solo nucleótido (SNPs) y requieren grandes muestras poblacionales, consorcios internacionales y repositorios públicos.
 
 A partir de estos avances ha surgido la aleatorización mendeliana de dos muestras (2SMR), una metodología que emplea los SNPs como variables instrumentales (IVs) para inferir relaciones causales los factores de riesgo y la patología. 
 
 A. Selección de los datos GWAS a analizar.
-En primer lugar, el archivo "listado de ..." contiene la selección de resultados públicos de GWAS de interés, tanto para las neoplasias digestivas como para los factores de riesgo, de la base de datos de referencia para estudios de MR "ieu OpenGWAS". 
+En primer lugar, el archivo "SNPs_relacionados_factor de riesgo.md" contiene la selección de resultados públicos de GWAS de interés, tanto para las neoplasias digestivas como para los factores de riesgo, de la base de datos de referencia para estudios de MR "ieu OpenGWAS". 
 
 B. Análisis de MR.
 A continuación, se ha realizado un estudio de 2SMR usando Rstudio con los paquetes "MR instruments" y "TwoSampleMR".  
 - En primer lugar se seleccionaron los SNPs asociados a cada factor ambiental para poder utilizarlos como IV.
 - A continuación, se selecciona las IVs firmemente asociadas según el nivel de significación de GWAS.
-- Se han empleado 5 métodos de aleatorización mendeliana (MR), para los cuales se calculó el parámetro "beta", que refleja la dirección de la relación entre factor de riesgo/enfermedad.
+- Se han empleado 5 métodos MR para los cuales se calculó el parámetro "beta", que refleja la dirección de la relación entre factor de riesgo/enfermedad.
 
-En el archivo (X) se muestran los resultados obtenidos tras el análisis MR en función de sus 5 métodos,  mostrándose el factor de riesgo más significativo en cada método (p<0.05), el parámetro b y el nº de SNPs seleccionados para dicho factor.
+En el archivo (Análisis_MR.md) se muestran los resultados obtenidos tras el análisis MR en función de sus 5 métodos,  mostrándose el factor de riesgo más significativo en cada método (p<0.05), el parámetro b y el nº de SNPs seleccionados para dicho factor.
