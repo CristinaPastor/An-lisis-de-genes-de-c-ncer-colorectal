@@ -53,6 +53,7 @@ Mide el efecto de cada SNP de forma aislada mediante el test de Wald, observando
 
 - `p < 0.05` --> el SNP tiene un efecto individual significativo y se considera candidato para explicar la base molecular del efecto observado.
 
-#### 3.3.4 Análisis de los efectos del conjunto de SNPs menos uno
+#### 3.3.4 Análisis Leave-One-Out
+Con este análisis se estudia el efecto del conjunto de SNPs excluyendo uno cada vez, pudiendo detectar si alguna variante condiciona por sí sola todo el resultado del análisis. Para ello, **si el valor de p pierde su significación estadística** tras la eliminación del SNP del conjunto, está **condicionando el efecto global** y habría que analizarlo con especial atención. 
 
 #### 3.3.5 Análisis mediante representación gráfica 
