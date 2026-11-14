@@ -63,5 +63,23 @@ Cada archivo de imagen corresponde a uno de los análisis descritos anteriorment
 - `single_snp_plot.png` --> representación del efecto individual de cada SNP
 - `leave_one_out_plot.png` --> efecto del conjunto al excluir un SNP cada vez
 - `scatter_plot.png` --> relación causal entre factor de riesgo y enfermedad
+
+  ### 3.4. Análisis funcional de las variantes genéticas
+
+En esta sección se estudian las posibles consecuencias funcionales de las variantes genéticas identificadas en los análisis previos, prestando especial atención a los genes relacionados y a sus posibles efectos sobre la expresión génica y los procesos de regulación biológica.
+
+El análisis incluye:
+- Identificación de los genes relacionados con las variantes genéticas seleccionadas.
+- Consulta de posibles efectos funcionales, como los efectos eQTL.
+- Interpretación biológica de la información disponible.
+- Recopilación de recursos y herramientas bioinformáticas para la anotación funcional.
+
+Las tres variantes documentadas en esta sección proceden del análisis de cáncer de colon del TFG de referencia. Se consideran datos de referencia bibliográfica y no resultados obtenidos mediante un análisis bioinformático propio.
+
+**Archivos relacionados:**
+- `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
+- `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
+- `analisis_funcional/recursos_analisis_funcional.md`: recursos y herramientas de consulta.
+- `scatter_plot.png` --> relación causal entre factor de riesgo y enfermedad
 - `funnel_plot.png` --> simetría de los efectos pata detectar pleiotropía horizontal
 
