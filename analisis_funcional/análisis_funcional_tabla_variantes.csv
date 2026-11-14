@@ -1,0 +1,7 @@
+Tipo_cancer,Factor_riesgo,SNP,Genes_relacionados,Posible_efecto_funcional
+Cancer colorrectal,Circunferencia de cintura,rs12317176,"DNAH10; DNAH10OS; CCDC92; ZNF664","Posibles efectos reguladores y evidencia eQTL"
+Cancer colorrectal,Circunferencia de cintura,rs724016,ZBTB38,"Posible implicacion en elementos reguladores epigeneticos"
+Cancer colorrectal,Circunferencia de cintura,rs2047937,ZNF423,"No se identifico un efecto funcional concluyente"
+Cancer colorrectal,Circunferencia de cintura,rs12679556,EYA1,"Posibles efectos reguladores relacionados con modificaciones de histonas"
+Cancer colorrectal,Circunferencia de cintura,rs806794,"BTN2A2; H3C6; H2BC5; H4C8","Posibles funciones reguladoras en la organizacion de la cromatina"
+Cancer colorrectal,Relacion cintura-cadera,rs1128249,COBLL1,"Posible participacion intronica en la regulacion de la transcripcion"
