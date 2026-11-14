@@ -79,5 +79,3 @@ Las tres variantes documentadas en esta sección proceden del análisis de cánc
 - `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
 - `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
 - `analisis_funcional/recursos_analisis_funcional.md`: recursos y herramientas de consulta.
-- `funnel_plot.png` --> simetría de los efectos pata detectar pleiotropía horizontal
-
