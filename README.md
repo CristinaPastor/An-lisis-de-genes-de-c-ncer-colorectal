@@ -74,12 +74,10 @@ El análisis incluye:
 - Interpretación biológica de la información disponible.
 - Recopilación de recursos y herramientas bioinformáticas para la anotación funcional.
 
-Las tres variantes documentadas en esta sección proceden del análisis de cáncer de colon del TFG de referencia. Se consideran datos de referencia bibliográfica y no resultados obtenidos mediante un análisis bioinformático propio.
-
+Las tres variantes documentadas en esta sección proceden del análisis de cáncer de colon. Se consideran datos de referencia bibliográfica
 **Archivos relacionados:**
 - `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
 - `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
 - `analisis_funcional/recursos_analisis_funcional.md`: recursos y herramientas de consulta.
-- `scatter_plot.png` --> relación causal entre factor de riesgo y enfermedad
 - `funnel_plot.png` --> simetría de los efectos pata detectar pleiotropía horizontal
 
