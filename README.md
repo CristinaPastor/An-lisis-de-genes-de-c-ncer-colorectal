@@ -88,20 +88,21 @@ El objetivo de este apartado es proporcionar una interpretación biológica de l
 
 El análisis incluye:
 
-Identificación de genes asociados a las variantes genéticas de interés.
-Descripción de la función biológica conocida de cada gen.
-Revisión de la evidencia disponible sobre su posible implicación en la enfermedad.
-Clasificación de los genes según la patología con la que fueron asociados.
+- Identificación de genes asociados a las variantes genéticas de interés.
+- Descripción de la función biológica conocida de cada gen.
+- Revisión de la evidencia disponible sobre su posible implicación en la enfermedad.
+- Clasificación de los genes según la patología con la que fueron asociados.
+  
 Los genes se han organizado en función de la patología estudiada:
 
-**Cáncer colorrectal**.
-**Cáncer de hígado**.
+- **Cáncer colorrectal**.
+- **Cáncer de hígado**.
 Cada gen dispone de una ficha individual que incluye una descripción resumida de su función biológica y de su posible papel en los procesos relacionados con la carcinogénesis.
 
 Archivos relacionados:
 
-genes_funcionales/cancer_colorrectal/: genes asociados al cáncer colorrectal.
-genes_funcionales/cancer_higado/: genes asociados al cáncer de hígado.
+- genes_funcionales/cancer_colorrectal/: genes asociados al cáncer colorrectal.
+- genes_funcionales/cancer_higado/: genes asociados al cáncer de hígado.
 
 ## 4.CONCLUSIONES
 Los análisis realizados permitieron identificar factores antropométricos y ambientales potencialmente relacionados con el riesgo de desarrollar cáncer colorrectal mediante estrategias de Randomización Mendeliana basadas en datos GWAS públicos.
