@@ -77,7 +77,7 @@ Cada archivo de imagen corresponde a uno de los análisis descritos anteriorment
 - `leave_one_out_plot.png` --> efecto del conjunto al excluir un SNP cada vez
 - `scatter_plot.png` --> relación causal entre factor de riesgo y enfermedad
 
-  ### 3.4. Análisis funcional de las variantes genéticas
+### 3.4. Análisis funcional de las variantes genéticas
 
 En esta sección se estudian las posibles consecuencias funcionales de las variantes genéticas identificadas en los análisis previos, prestando especial atención a los genes relacionados y a sus posibles efectos sobre la expresión génica y los procesos de regulación biológica.
 
@@ -88,6 +88,7 @@ El análisis incluye:
 - Recopilación de recursos y herramientas bioinformáticas para la anotación funcional.
 
 Las tres variantes documentadas en esta sección proceden del análisis de cáncer de colon. Se consideran datos de referencia bibliográfica
+
 **Archivos relacionados:**
 - `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
 - `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
@@ -124,4 +125,11 @@ Los resultados obtenidos fueron evaluados mediante distintos análisis de sensib
 
 Además, la caracterización funcional de las variantes genéticas permitió identificar genes candidatos susceptibles de participar en los mecanismos biológicos implicados en la enfermedad. El estudio de estos genes aporta información complementaria para interpretar los resultados desde una perspectiva molecular y facilita la identificación de posibles rutas biológicas involucradas en la carcinogénesis.
 
-En conjunto, este trabajo demuestra la utilidad de integrar datos genéticos, análisis de causalidad y herramientas de anotación funcional para mejorar la comprensión de los factores relacionados con el desarrollo de neoplasias digestivas
+En conjunto, este trabajo demuestra la utilidad de integrar datos genéticos, análisis de causalidad y herramientas de anotación funcional para mejorar la comprensión de los factores relacionados con el desarrollo de neoplasias digestivas.
+
+### AUTORES
+Denia Hassan Mohamed
+Elisa Palos Domínguez
+Carmen Galiano Gamez
+Damián Tandalla Guacollantes
+Cristina Pastor López
