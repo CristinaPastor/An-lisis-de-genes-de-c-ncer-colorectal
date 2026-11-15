@@ -115,8 +115,8 @@ Cada gen dispone de una ficha individual que incluye una descripción resumida d
 
 Archivos relacionados:
 
-- genes_funcionales/cancer_colorrectal/: genes asociados al cáncer colorrectal.
-- genes_funcionales/cancer_higado/: genes asociados al cáncer de hígado.
+- genes_funcionales/cancer_colorrectal/ --> genes asociados al cáncer colorrectal.
+- genes_funcionales/cancer_higado/ --> genes asociados al cáncer de hígado.
 
 ## 4.CONCLUSIONES
 Los análisis realizados permitieron identificar factores antropométricos y ambientales potencialmente relacionados con el riesgo de desarrollar cáncer colorrectal mediante estrategias de Randomización Mendeliana basadas en datos GWAS públicos.
