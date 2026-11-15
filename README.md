@@ -128,8 +128,13 @@ Además, la caracterización funcional de las variantes genéticas permitió ide
 En conjunto, este trabajo demuestra la utilidad de integrar datos genéticos, análisis de causalidad y herramientas de anotación funcional para mejorar la comprensión de los factores relacionados con el desarrollo de neoplasias digestivas.
 
 ### AUTORES
+
 Denia Hassan Mohamed
+
 Elisa Palos Domínguez
+
 Carmen Galiano Gamez
+
 Damián Tandalla Guacollantes
+
 Cristina Pastor López
