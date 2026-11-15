@@ -10,6 +10,11 @@ Este proyecto de investigación se basa, por tanto, en el estudio de factores am
 
 ## 2. OBJETIVOS
 
+Planteamos los siguientes objetivos:
+* Evaluar el efecto causal de los factores ambientales sobre el cáncer de colon mediante el uso de herramientas de aleatorización mendeliana de dos muestras (2SMR).
+* Determinar la solidez de las asociaciones causales empleando análisis de sensibilidad.
+* Explorar el papel de los SNPs como variables instrumentales (IVs) para profundizar en la comprensión de las bases moleculares de las relaciones causales.
+
 ## 3. ANÁLISIS 
 
 ### 3.1. FACTORES AMBIENTALES DE INTERÉS
