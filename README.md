@@ -1,6 +1,11 @@
 # ANÁLISIS DE GENES ASOCIADOS A FACTORES AMBIENTALES QUE AFECTAN AL CÁNCER COLORRECTAL
+
 ## 1. INTRODUCCIÓN
 
+Los cánceres se clasifican como enfermedades complejas debido a que su aparición depende tanto de factores genéticos como de la interacción de estos con factores ambientales. Actualmente, se atribuye a las modificaciones epigenéticas el papel de mediar diálogo entre la genética y el ambiente. Existe un gran abanico de factores ambientales asociados a enfermedades y en nuestro caso, seleccionamos a las neoplasias digestivas como principal objetivo de estudio. 
+La base del estudio de las bases genéticas de las enfermedades complejas y de los factores ambientales se fundamenta en estudios de asociación del genoma completo (GWAS del inglés, Genome-wide association studies) que consiste en el análisis de millones de polimorfismos de un solo nucleótido (SNPs del inglés, Single Nucleotide Polymorphism) que se encuentran localizados a lo largo del genoma, y su asociación con las diferentes neoplasias. 
+Gracias a las grandes iniciativas internacionales y consorcios, se han podido desarrollar unos métodos conocidos como aleatorización mendeliana de dos muestras (2SMR del inglés, Two-sample mendelian randomization) donde utilizamos los SNPs como variables instrumentales, con la finalidad de comprobar la existencia de una relación causal entre factor ambiental y neoplasia digestiva. 
+Este proyecto de investigación se basa, por tanto, en el estudio de factores ambientales que puedan influir en el desarrollo de neoplasias digestivas, en nuestro caso el cáncer de colon, mediante estudios de asociación de genoma completo y aplicación del método de aleatorización mendeliana de dos muestras a través del lenguaje de programación R en la plataforma de R studio. 
 ## 2. OBJETIVOS
 
 ## 3. ANÁLISIS 
