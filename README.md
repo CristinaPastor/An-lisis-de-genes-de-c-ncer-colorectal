@@ -17,6 +17,7 @@ Este proyecto de investigación se basa, por tanto, en el estudio de factores am
 Para comenzar, se debe seleccionar los distintos tipos de factores ambientales de interés que podrían estar involucrados en la enfermedad. Para ello, realizamos una búsqueda bibliográfica en PubMed y estudiamos qué factores poseen una alta relación con el cáncer de colon.
 - Creamos una carpeta que se llame factores_ambientales.
 - Dentro de la carpeta, clasificamos los diversos factores creando un archivo .md por cada factor.
+- En cada archivo recopilamos toda la bibliografía inicial de apoyo con la que podremos tener una primera idea de qué factores tienen más probabilidad de participar en la enfermedad. 
 
 ### 3.2. SELECCIÓN DE SNPs Y ANÁLISIS DE ALEATORIZACIÓN MENDELIANA (MR).
 
