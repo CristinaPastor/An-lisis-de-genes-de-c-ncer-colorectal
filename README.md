@@ -90,9 +90,9 @@ El análisis incluye:
 Las tres variantes documentadas en esta sección proceden del análisis de cáncer de colon. Se consideran datos de referencia bibliográfica
 
 **Archivos relacionados:**
-- `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
-- `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
-- `analisis_funcional/recursos_analisis_funcional.md`: recursos y herramientas de consulta.
+- `analisis_funcional/analisis_funcional.md` --> descripción del enfoque y los objetivos.
+- `analisis_funcional/tabla_variantes.csv` --> tabla de variantes y genes relacionados.
+- `analisis_funcional/recursos_analisis_funcional.md` --> recursos y herramientas de consulta.
 
 ### 3.5. Genes funcionales relacionados con la patología
 
