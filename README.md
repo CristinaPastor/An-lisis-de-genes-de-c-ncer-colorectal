@@ -79,3 +79,36 @@ Las tres variantes documentadas en esta sección proceden del análisis de cánc
 - `analisis_funcional/analisis_funcional.md`: descripción del enfoque y los objetivos.
 - `analisis_funcional/tabla_variantes.csv`: tabla de variantes y genes relacionados.
 - `analisis_funcional/recursos_analisis_funcional.md`: recursos y herramientas de consulta.
+
+### 3.5. Genes funcionales relacionados con la patología
+
+En esta sección se recopilan los genes identificados durante el análisis funcional de las variantes genéticas asociadas a factores antropométricos relacionados con neoplasias digestivas.
+
+El objetivo de este apartado es proporcionar una interpretación biológica de los resultados obtenidos mediante los análisis de Randomización Mendeliana, identificando genes candidatos que podrían participar en los mecanismos moleculares implicados en el desarrollo tumoral.
+
+El análisis incluye:
+
+- Identificación de genes asociados a las variantes genéticas de interés.
+- Descripción de la función biológica conocida de cada gen.
+- Revisión de la evidencia disponible sobre su posible implicación en la enfermedad.
+- Clasificación de los genes según la patología con la que fueron asociados.
+  
+Los genes se han organizado en función de la patología estudiada:
+
+- **Cáncer colorrectal**.
+- **Cáncer de hígado**.
+Cada gen dispone de una ficha individual que incluye una descripción resumida de su función biológica y de su posible papel en los procesos relacionados con la carcinogénesis.
+
+Archivos relacionados:
+
+- genes_funcionales/cancer_colorrectal/: genes asociados al cáncer colorrectal.
+- genes_funcionales/cancer_higado/: genes asociados al cáncer de hígado.
+
+## 4.CONCLUSIONES
+Los análisis realizados permitieron identificar factores antropométricos y ambientales potencialmente relacionados con el riesgo de desarrollar cáncer colorrectal mediante estrategias de Randomización Mendeliana basadas en datos GWAS públicos.
+
+Los resultados obtenidos fueron evaluados mediante distintos análisis de sensibilidad con el objetivo de confirmar la robustez de las asociaciones observadas y reducir la influencia de posibles factores de confusión o sesgos metodológicos.
+
+Además, la caracterización funcional de las variantes genéticas permitió identificar genes candidatos susceptibles de participar en los mecanismos biológicos implicados en la enfermedad. El estudio de estos genes aporta información complementaria para interpretar los resultados desde una perspectiva molecular y facilita la identificación de posibles rutas biológicas involucradas en la carcinogénesis.
+
+En conjunto, este trabajo demuestra la utilidad de integrar datos genéticos, análisis de causalidad y herramientas de anotación funcional para mejorar la comprensión de los factores relacionados con el desarrollo de neoplasias digestivas
